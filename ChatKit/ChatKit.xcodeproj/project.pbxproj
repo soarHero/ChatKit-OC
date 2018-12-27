@@ -504,6 +504,7 @@
 		9AC44E9F1E15154300619112 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 9AC44D7F1E15154300619112 /* README.md */; };
 		C47C183C21D46C5300FAB2C0 /* LCCKInputViewPluginVideoCall.h in Headers */ = {isa = PBXBuildFile; fileRef = C47C183A21D46C5300FAB2C0 /* LCCKInputViewPluginVideoCall.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C47C183D21D46C5300FAB2C0 /* LCCKInputViewPluginVideoCall.m in Sources */ = {isa = PBXBuildFile; fileRef = C47C183B21D46C5300FAB2C0 /* LCCKInputViewPluginVideoCall.m */; };
+		C47C183F21D46FC900FAB2C0 /* CustomizedChatKit.Other.bundle in Resources */ = {isa = PBXBuildFile; fileRef = C47C183E21D46FC900FAB2C0 /* CustomizedChatKit.Other.bundle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -1009,6 +1010,7 @@
 		A9601FCE9729A0FE4669D33E /* libPods-ChatKit.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ChatKit.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C47C183A21D46C5300FAB2C0 /* LCCKInputViewPluginVideoCall.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LCCKInputViewPluginVideoCall.h; sourceTree = "<group>"; };
 		C47C183B21D46C5300FAB2C0 /* LCCKInputViewPluginVideoCall.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LCCKInputViewPluginVideoCall.m; sourceTree = "<group>"; };
+		C47C183E21D46FC900FAB2C0 /* CustomizedChatKit.Other.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = CustomizedChatKit.Other.bundle; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1349,6 +1351,7 @@
 		9AAFA1A91E14FBA3006618E0 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				C47C183E21D46FC900FAB2C0 /* CustomizedChatKit.Other.bundle */,
 				9AAFA1AA1E14FBA4006618E0 /* BarButtonIcon.bundle */,
 				9AAFA1AB1E14FBA4006618E0 /* ChatKeyboard.bundle */,
 				9AAFA1AC1E14FBA4006618E0 /* DateTools.bundle */,
@@ -2483,6 +2486,7 @@
 				9AC44DE81E15154300619112 /* MJRefresh.bundle in Resources */,
 				9AAFA28A1E14FBA5006618E0 /* Placeholder.bundle in Resources */,
 				9AC44E221E15154300619112 /* UIBarButtonItemArrowLeft@3x.png in Resources */,
+				C47C183F21D46FC900FAB2C0 /* CustomizedChatKit.Other.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

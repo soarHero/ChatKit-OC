@@ -280,6 +280,7 @@ typedef NS_ENUM(NSUInteger, LCCKInputViewPluginType) {
     LCCKInputViewPluginTypePickImage = -2,         /**< 选择照片 */
     LCCKInputViewPluginTypeLocation = -3,          /**< 地理位置 */
     LCCKInputViewPluginTypeShortVideo = -4,        /**< 短视频 */
+    LCCKInputViewPluginTypeVideoCall = 1,  
 //    LCCKInputViewPluginTypeMorePanel= -7,         /**< 显示更多面板 */
 //    LCCKInputViewPluginTypeText = -1,              /**< 文本输入 */
 //    LCCKInputViewPluginTypeVoice = -2,             /**< 语音输入 */

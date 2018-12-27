@@ -40,7 +40,7 @@
  * 插件名称
  */
 - (NSString *)pluginTitle {
-    return @"位置";
+    return LCCKLocalizedStrings(@"Location");
 }
 
 /*!
