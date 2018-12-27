@@ -50,6 +50,7 @@
     #import <ChatKit/LCCKInputViewPluginPickImage.h>
     #import <ChatKit/LCCKInputViewPluginTakePhoto.h>
     #import <ChatKit/LCCKInputViewPluginLocation.h>
+    #import <ChatKit/LCCKInputViewPluginVideoCall.h>
     #import <ChatKit/LCCKAlertController.h>
     #import <ChatKit/NSFileManager+LCCKExtension.h>
     #import <ChatKit/NSObject+LCCKExtension.h>
@@ -87,6 +88,7 @@
     #import "LCCKInputViewPluginPickImage.h"
     #import "LCCKInputViewPluginTakePhoto.h"
     #import "LCCKInputViewPluginLocation.h"
+    #import "LCCKInputViewPluginVideoCall.h"
     #import "LCCKAlertController.h"
     #import "NSFileManager+LCCKExtension.h"
     #import "NSObject+LCCKExtension.h"
